@@ -9,7 +9,7 @@ injectGlobal`
   ${globalStyles}
 `;
 
-export default ({ children, title = 'Nimbletank Email Signature Generator' }) => (
+export default ({ children, title = 'MiYuMi.Ai Email Signature Generator' }) => (
   <ThemeProvider theme={theme}>
     <div>
       <Head>

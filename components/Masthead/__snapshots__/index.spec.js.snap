@@ -3,17 +3,17 @@
 exports[`Masthead snapshot test 1`] = `
 <div>
   <h1>
-    Zander
+    Zak Zubair
   </h1>
   <a
-    href="http://zander.wtf"
+    href="https://github.com/ZakZubair/"
   >
-    Zander
+    Zak Zubair
   </a>
   <a
-    href="http://nimbletank.com"
+    href="http://MiYuMi.Ai"
   >
-    Nimbletank
+    MiYuMi.Ai
   </a>
 </div>
 `;

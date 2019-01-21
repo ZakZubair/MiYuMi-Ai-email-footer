@@ -6,12 +6,12 @@ expect.addSnapshotSerializer(serializer)
 
 const links = [
   {
-    href: 'http://zander.wtf',
-    text: 'Zander'
+    href: 'https://github.com/ZakZubair/',
+    text: 'Zak Zubair'
   },
   {
-    href: 'http://nimbletank.com',
-    text: 'Nimbletank'
+    href: 'http://MiYuMi.Ai',
+    text: 'MiYuMi.Ai'
   }
 ]
 
